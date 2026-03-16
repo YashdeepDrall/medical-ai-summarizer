@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+pandas
+pypdf
+sentence-transformers
+faiss-cpu
+google-generativeai
+streamlit
+python-dotenv

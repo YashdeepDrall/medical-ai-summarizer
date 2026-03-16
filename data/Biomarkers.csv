@@ -1,0 +1,119 @@
+Biomarker,Category,Normal Range,Units,Abnormal Condition,Diseases Associated
+Hemoglobin,Hematology,"13.5-17.5 (M), 12-15.5 (F)",g/dL,Low or High,"Anemia, Polycythemia"
+Hematocrit,Hematology,"41-53 (M), 36-46 (F)",%,Low or High,"Anemia, Dehydration"
+RBC Count,Hematology,4.2-6.1,million/µL,Low or High,"Anemia, Polycythemia"
+WBC Count,Hematology,"4000-11000",/µL,High or Low,"Infection, Leukemia"
+Platelet Count,Hematology,"150000-450000",/µL,High or Low,"Thrombocytopenia, Clotting disorders"
+
+MCV,Hematology,80-100,fL,Low or High,"Iron deficiency anemia, B12 deficiency"
+MCH,Hematology,27-33,pg,Low or High,Anemia
+MCHC,Hematology,32-36,g/dL,Low or High,Anemia
+RDW,Hematology,11.5-14.5,%,High,"Nutritional anemia"
+
+Neutrophils,Hematology,40-70,%,High or Low,"Bacterial infection, Sepsis"
+Lymphocytes,Hematology,20-40,%,High or Low,"Viral infection, Leukemia"
+Monocytes,Hematology,2-8,%,High,"Chronic infection"
+Eosinophils,Hematology,1-4,%,High,"Allergy, Asthma"
+Basophils,Hematology,0-1,%,High,"Myeloproliferative disorders"
+
+Reticulocyte Count,Hematology,0.5-2.5,%,High or Low,"Hemolytic anemia"
+ESR,Inflammation,0-20,mm/hr,High,"Inflammation, Autoimmune disease"
+
+Creatinine,Kidney,0.7-1.3,mg/dL,High,"Kidney failure"
+Blood Urea Nitrogen,Kidney,7-20,mg/dL,High,"Kidney disease"
+Urea,Kidney,15-40,mg/dL,High,"Renal dysfunction"
+Uric Acid,Kidney,3.4-7.0,mg/dL,High,Gout
+
+eGFR,Kidney,>90,mL/min,Low,"Chronic kidney disease"
+Cystatin C,Kidney,0.6-1.2,mg/L,High,"Kidney impairment"
+
+Urine Albumin,Kidney,<30,mg/day,High,"Diabetic nephropathy"
+Urine Protein,Kidney,<150,mg/day,High,"Kidney disease"
+
+ALT,Liver,7-56,U/L,High,Hepatitis
+AST,Liver,10-40,U/L,High,"Liver injury"
+ALP,Liver,44-147,U/L,High,"Bile duct obstruction"
+GGT,Liver,9-48,U/L,High,"Alcoholic liver disease"
+
+Total Bilirubin,Liver,0.3-1.2,mg/dL,High,Jaundice
+Direct Bilirubin,Liver,0.1-0.3,mg/dL,High,"Liver disease"
+
+Albumin,Liver,3.5-5.0,g/dL,Low,"Liver failure"
+Total Protein,Liver,6.0-8.3,g/dL,Low,"Liver disease"
+
+LDH,Enzyme,140-280,U/L,High,"Tissue damage"
+
+Total Cholesterol,Lipid,<200,mg/dL,High,"Cardiovascular disease"
+LDL,Lipid,<100,mg/dL,High,Atherosclerosis
+HDL,Lipid,>40,mg/dL,Low,"Heart disease risk"
+Triglycerides,Lipid,<150,mg/dL,High,"Metabolic syndrome"
+
+Apolipoprotein A1,Lipid,120-160,mg/dL,Low,"Heart disease"
+Apolipoprotein B,Lipid,55-140,mg/dL,High,"Cardiovascular risk"
+
+Fasting Glucose,Metabolic,70-99,mg/dL,High,Diabetes
+Postprandial Glucose,Metabolic,<140,mg/dL,High,Diabetes
+
+HbA1c,Diabetes,<5.7,%,High,Diabetes
+
+Insulin,Hormone,2-25,µIU/mL,High or Low,Diabetes
+
+C Peptide,Metabolic,0.5-2.0,ng/mL,Low,"Type 1 Diabetes"
+
+Sodium,Electrolyte,135-145,mmol/L,High or Low,Dehydration
+Potassium,Electrolyte,3.5-5.0,mmol/L,High or Low,"Cardiac arrhythmia"
+Chloride,Electrolyte,98-106,mmol/L,High,"Metabolic acidosis"
+
+Calcium,Mineral,8.5-10.5,mg/dL,High,"Hyperparathyroidism"
+
+Magnesium,Mineral,1.7-2.2,mg/dL,Low,"Neuromuscular disorder"
+
+Phosphorus,Mineral,2.5-4.5,mg/dL,High,"Kidney disease"
+
+Troponin I,Cardiac,<0.04,ng/mL,High,"Heart attack"
+Troponin T,Cardiac,<0.01,ng/mL,High,"Myocardial infarction"
+CK MB,Cardiac,0-5,ng/mL,High,"Heart damage"
+BNP,Cardiac,<100,pg/mL,High,"Heart failure"
+Myoglobin,Cardiac,25-72,ng/mL,High,"Muscle injury"
+Homocysteine,Cardiac,5-15,µmol/L,High,"Heart disease"
+
+TSH,Thyroid,0.4-4.0,mIU/L,High,Hypothyroidism
+T3,Thyroid,80-200,ng/dL,High,Hyperthyroidism
+T4,Thyroid,5-12,µg/dL,High,"Thyroid disease"
+
+Cortisol,Hormone,6-23,µg/dL,High,"Cushing syndrome"
+Testosterone,Hormone,300-1000,ng/dL,Low,Hypogonadism
+Estradiol,Hormone,15-350,pg/mL,High,"Hormonal imbalance"
+Progesterone,Hormone,0.1-25,ng/mL,Low,Infertility
+
+Vitamin B12,Vitamin,200-900,pg/mL,Low,"Pernicious anemia"
+Folate,Vitamin,2-20,ng/mL,Low,"Megaloblastic anemia"
+Vitamin D,Vitamin,20-50,ng/mL,Low,Osteoporosis
+Vitamin A,Vitamin,20-60,µg/dL,Low,"Vision problems"
+Vitamin E,Vitamin,5-20,mg/L,Low,"Neurological disease"
+Vitamin K,Vitamin,0.2-3.2,ng/mL,Low,"Bleeding disorder"
+
+PSA,Cancer,<4,ng/mL,High,"Prostate cancer"
+AFP,Cancer,<10,ng/mL,High,"Liver cancer"
+CEA,Cancer,<3,ng/mL,High,"Colon cancer"
+CA 125,Cancer,<35,U/mL,High,"Ovarian cancer"
+CA 19 9,Cancer,<37,U/mL,High,"Pancreatic cancer"
+CA 15 3,Cancer,<30,U/mL,High,"Breast cancer"
+Beta hCG,Cancer,<5,mIU/mL,High,"Germ cell tumor"
+
+CRP,Inflammation,<3,mg/L,High,Infection
+Procalcitonin,Infection,<0.1,ng/mL,High,Sepsis
+Ferritin,Iron,30-400,ng/mL,High,Inflammation
+Interleukin 6,Cytokine,<7,pg/mL,High,"Cytokine storm"
+TNF Alpha,Cytokine,<8,pg/mL,High,"Autoimmune disease"
+
+Prothrombin Time,Coagulation,11-13.5,sec,High,"Liver disease"
+INR,Coagulation,0.8-1.2,ratio,High,"Bleeding disorder"
+aPTT,Coagulation,25-35,sec,High,"Clotting disorder"
+D Dimer,Coagulation,<500,ng/mL,High,Thrombosis
+Fibrinogen,Coagulation,200-400,mg/dL,Low,DIC
+
+Tau Protein,Neuro,<1.2,pg/mL,High,"Alzheimer disease"
+Beta Amyloid 42,Neuro,500-1200,pg/mL,Low,"Alzheimer disease"
+Neuron Specific Enolase,Neuro,<16,ng/mL,High,"Brain injury"
+S100B,Neuro,<0.1,µg/L,High,"Brain damage"
